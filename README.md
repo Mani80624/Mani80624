@@ -4,6 +4,7 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
+<h1>Hi, I'm Manuel Dolores</h1>
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
@@ -11,13 +12,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 I'm a data scientist
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I am currently doing research on the design of prediction algorithms for BIRADS 3 in breast cancer.
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+- 🏙 Creator of the [Círculo Pitagórico](https://www.facebook.com/profile.php?id=61567782032472) virtual school.
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 How to reach me **manueldolores01@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
@@ -48,4 +49,4 @@
 
 Credit: [Anderson Mendoza](https://github.com/andermendoza)
 
-Last Edited on: 26/09/2022
+Las Edition: 20/03/2025
