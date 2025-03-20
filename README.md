@@ -6,10 +6,10 @@
 
 <h1>Hi, I'm Manuel Dolores</h1>
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mani80624&label=Profile%20views&color=0e75b6&style=flat" alt="manueldolores" /> </p>
 
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mani80624&theme=dracula&column=7" alt="manueldolores" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I'm a data scientist
